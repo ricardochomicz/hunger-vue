@@ -1,0 +1,33 @@
+{
+  "name": "vuehunger",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@meforma/vue-toaster": "^1.2.2",
+    "ant-design-vue": "^2.2.0-beta.6",
+    "axios": "^0.21.4",
+    "bootstrap": "^5.0.2",
+    "core-js": "^3.6.5",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1",
+    "vue": "^3.1.2",
+    "vue-router": "^4.0.10",
+    "vue-toast-notification": "^2.0.1",
+    "vue-use-vuex": "^0.2.2",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.1.2"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
